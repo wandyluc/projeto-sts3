@@ -1,5 +1,5 @@
 # Semana Spring React da DevSuperior
-
+[![NPM](https://img.shields.io/apm/l/react)](https://github.com/wandyluc/projeto-sts3/blob/master/LICENSE)
 <h1>.</h1>
 
 <h3>Nele foi utilzada as seguintes tecnologias</h3>
