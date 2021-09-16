@@ -1,13 +1,18 @@
 # projeto-sts3
 
 
-Desafio de uma semana daa escola DevSuperior.
+<h1>Semana Spring React da DevSuperior.</h1>
 
-Nele foi utilzada as seguintes tecnologias
-=> Spring Boot para o back end
-=> React para o front end
+<h3>Nele foi utilzada as seguintes tecnologias</h3>
+<ol>
+  <li> Spring Boot para o back end </li>
+  <li> React para o front end </li>
+</ol>
 
-Cada camada front/back end foram hospedadas em diferentes serviços de hospedagem.
-=> O front end esta no Netlify
-=> O back end estaa no Heroku
+<h3>Cada camada front/back end foram hospedadas em diferentes serviços de hospedagem.</h3>
+<ol>
+  <li> O back end estaa no  <a href="www.heroku.com">Heroku</a></li>
+  <li> O front end esta no  <a href="www.neflify.com">Netlify</a> </li>
+</ol>  
+  
 
