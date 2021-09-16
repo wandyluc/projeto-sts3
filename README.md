@@ -1,7 +1,6 @@
-# projeto-sts3
+# Semana Spring React da DevSuperior
 
-
-<h1>Semana Spring React da DevSuperior.</h1>
+<h1>.</h1>
 
 <h3>Nele foi utilzada as seguintes tecnologias</h3>
 <ol>
