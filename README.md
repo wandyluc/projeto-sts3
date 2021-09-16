@@ -25,6 +25,12 @@ A aplicação consiste em duas paginas,sendo a primeira faz a apresentação par
 #Implantação em produção
 - Backend: Heroku
 - Frontend: Netlify
+
+Autor
+
+Wandy Luciano
+
+https://www.linkedin.com/in/wandy-luciano-69788566/
   
   
 
