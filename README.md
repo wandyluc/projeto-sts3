@@ -11,7 +11,7 @@ A aplicação consiste em duas paginas,sendo a primeira faz a apresentação par
 
 # Tecnologias utilizadas
 ##Backend
-- Java
+- Java 11
 - Spring Boot
 - JPA / Hibernate
 - Maven
