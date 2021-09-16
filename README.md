@@ -1,17 +1,30 @@
 # Semana Spring React da DevSuperior
 [![NPM](https://img.shields.io/apm/l/react)](https://github.com/wandyluc/projeto-sts3/blob/master/LICENSE)
-<h1>.</h1>
 
-<h3>Nele foi utilzada as seguintes tecnologias</h3>
-<ol>
-  <li> Spring Boot para o back end </li>
-  <li> React para o front end </li>
-</ol>
+# Sobre o projeto
 
-<h3>Cada camada front/back end foram hospedadas em diferentes serviços de hospedagem.</h3>
-<ol>
-  <li> O back end estaa no  <a href="www.heroku.com">Heroku</a></li>
-  <li> O front end esta no  <a href="www.neflify.com">Netlify</a> </li>
-</ol>  
+https://dsvendas-wandy.netlify.app/
+
+O projeto de uma aplicação full stack web construída durante a uma semana, evento gratuito organizado pela [DevSuperior](https://devsuperior.com "Site da Devsuperior").
+
+A aplicação consiste em duas paginas,sendo a primeira faz a apresentação para dashboard com gráficos e lista do desempenho de vendas
+
+# Tecnologias utilizadas
+##Backend
+- Java
+- Spring Boot
+- JPA / Hibernate
+- Maven
+
+## Frontend
+- HTML / CSS / JS / TypeScript
+- React
+- Apex Charts
+- Expo
+
+#Implantação em produção
+- Backend: Heroku
+- Frontend: Netlify
+  
   
 
