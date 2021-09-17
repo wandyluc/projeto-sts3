@@ -30,7 +30,7 @@ Autor
 
 Wandy Luciano
 
-https://www.linkedin.com/in/wandy-luciano-69788566/
+www.linkedin.com/in/wandyluciano
   
   
 
